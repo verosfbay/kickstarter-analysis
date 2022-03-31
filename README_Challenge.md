@@ -7,7 +7,7 @@ Analyzing and vizualizing campaign outcomes using the Kickstarter dataset.
 To know how different campaigns fared in relation to their launch dates and their funding goals. 
 
 ## Analysis and Challenges
-
+The overview of the analysis is well described with screenshots (2 pt).
 
 <img width="895" alt="Screen Shot 2022-03-31 at 2 20 14 PM" src="https://user-images.githubusercontent.com/95447175/161151228-9dc8cfee-9f17-481d-8d8e-707474f4fea1.png">
 <img width="825" alt="Screen Shot 2022-03-31 at 2 20 06 PM" src="https://user-images.githubusercontent.com/95447175/161151259-16addc37-6f2e-4318-95b6-448aa6cda9ae.png">
@@ -22,6 +22,7 @@ To know how different campaigns fared in relation to their launch dates and thei
 
 
 ### Challenges and Difficulties Encountered
+Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
 
 ## Results
 
