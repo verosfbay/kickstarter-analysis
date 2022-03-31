@@ -19,7 +19,7 @@ Performing analysis on Kickstarter data to uncover trends
 ![Play subcategory stats](https://user-images.githubusercontent.com/95447175/161140088-ace1c4b2-919a-4170-a99e-f61c5893af87.png)
 
 ## Recommendations 
-* Launch theater campaigns in May whenever possible, as that is the month with the highest number of successful camapigns
+* Launch theater campaigns in May whenever possible, as that is the month with the highest number of successful campaigns
 * June and July are second and third best months to launch a theater campaign
 * Ask for less money, and you will get more pledged 
 * Keep the mean Goal between $4000-$5000
