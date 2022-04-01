@@ -7,8 +7,6 @@ Analyzing and vizualizing campaign outcomes using the Kickstarter dataset.
 To know how different campaigns fared in relation to their launch dates and their funding goals. 
 
 ## Analysis and Challenges
-The overview of the analysis is well described with screenshots (2 pt)
-
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95447175/161151006-6723fa3b-ef54-4688-9488-65ad5251c985.png)
 
