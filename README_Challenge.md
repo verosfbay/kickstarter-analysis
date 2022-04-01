@@ -25,23 +25,23 @@ I encountered a challenge in modeling the Theater Outcomes by Launch Dates; I wa
 Also, the Countifs() formula was tricky to use, I was getting errors when I first used the formula. I had to use the Hint and follow the link to see how to use the formula. Thankfully, Microsoft explains it very well and it turns out I was stuck on the criteria format – I put >1000 where I was supposed to put ">1000". 
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Conclusions drawn about the Outcomes based on Launch Date
 * May was the best month for successful theater launches, with 111 successful launch dates, the highest number in the analysis
 * The number of failed launches and the number of successful launches are very similar in December (37 successful and 35 failed), 
 which means that in December there is almost a 50-50 chance of failure or success
 
-- What can you conclude about the Outcomes based on Goals?
+### Conclusions about the Outcomes based on Goals?
 * It's best to have a Goal of under $20,000; the rate of success goes up as the Goal amount goes down below $20,000
 * The rate of success does increase to 67% for Goals of $35,000-$44,999, so other factors may be at play, such as the plot of the play and amount of backers 
 
-- What are some limitations of this dataset?
+### Some limitations of this dataset
 * The dataset doesn't show the duration of the proposed projects (plays, musicals, etc.), which may affect their likelihood of succeeding
 * The dataset doesn't show how the plays were marketed; nowadays good marketing is very important to sell anything, and if we knew
 how the plays in the dataset were marketed, we could make better conclusions about why certain plays succeeded and others failed 
 * The dataset doesn't show more granular location data, such as which city each event was in. Some cities are cultural hubs where many people go to see performances, while other cities are in the middle of nowhere and don't get big crowds
 * We don't have granular data about the backers, it would be useful to have Target Profiles to know what types of people support each event type, and then use marketing to reach these people and receive more donations
 
-- What are some other possible tables and/or graphs that we could create?
+### Possible tables and/or graphs that could be created
 * We could compare the donation amount with the amount of backers, to see how they relate
 * We could look at event types by country, to see which event type performs best in each country
 
